@@ -1,0 +1,5 @@
+{
+  "name": "IELTS Reading Practice",
+  "description": "An interactive web application to practice for the IELTS reading test. It features a reading passage, various question types, and an automated scoring system to provide instant feedback on your answers.",
+  "requestFramePermissions": []
+}
